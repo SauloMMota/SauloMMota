@@ -2,7 +2,7 @@
 # ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=SauloMMota&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
 
-[![Carreira](https://img.shields.io/badge/Career-3%20years-blue)](#)&nbsp;
+[![Carreira](https://img.shields.io/badge/Career-5%20years-blue)](#)&nbsp;
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Saulo+Mendes;Pleno+systems+analyst+at+Capgemini;)](https://git.io/typing-svg)
 
@@ -37,11 +37,9 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
 ![C](https://img.shields.io/badge/-C-black?style=flat&logo=C&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=C+sharp&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
 ![Npm](https://img.shields.io/badge/-Npm-black?style=flat&logo=npm)&nbsp;
-
 
 </tr>
 
@@ -55,7 +53,6 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
 ![Npm](https://img.shields.io/badge/-Npm-black?style=flat&logo=npm)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=red)&nbsp;
 
